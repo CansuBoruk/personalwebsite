@@ -1,0 +1,60 @@
+body{
+    background-color: #d5def5;
+}
+
+.welcome-page{
+   margin-left: 340px;
+margin-top: -50px;
+}
+
+.about-me-enterence{
+    font-family: Playpen Sans;
+text-align: center;
+font-size: 30px;
+margin-bottom: 20px;
+color:#905880;
+}
+
+.about-me-read, .text-part, .footer-part{
+    font-family: Playpen Sans;
+    text-align: center;
+    font-size: 20px;
+    color:#905880;
+}
+
+.text-part{
+    width: 250px;
+    margin-top: 20px;
+    margin-left:350px;
+}
+
+.arrow {
+  margin-left: 650px;
+  margin-top: -90px;
+}
+
+.icon{
+width: 40px;
+}
+
+.icon-part{
+    margin-left: 800px;
+
+    margin-top:-120px;
+}
+
+.linkedin-icon{
+    margin-right: 40px;
+}
+
+.medium-icon{
+    margin-right: 40px;
+}
+
+.mail{
+    margin-bottom: 10px;
+}
+
+.email:hover{
+    color:blue;
+}
